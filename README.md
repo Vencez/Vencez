@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vencez
-- 👀 I’m interested in cryptography, C++, quantum computers and anything to do with Mathematics.
+- 👀 I’m interested in cryptography, elliptic curves, advanced algorithms and anything to have in common with mathematics.
 - 🌱 I’m currently learning all of the above mentioned.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Vencez/Vencez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

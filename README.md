@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vencez
-- 👀 I’m interested in cryptography, elliptic curves, advanced algorithms and anything to have in common with mathematics.
-- 🌱 I’m currently learning all of the above mentioned.
+- The only curves that I focus on are the elliptic ones.
 
 <!---
 Vencez/Vencez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
